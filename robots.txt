@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://Linshuhuai.github.io/sitemap.xml
