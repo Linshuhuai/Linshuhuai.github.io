@@ -6,7 +6,22 @@
     <description>Recent content in Posts on Shuhuai&#39;Log</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Wed, 28 Feb 2024 15:31:46 -0800</lastBuildDate>
     <atom:link href="https://linshuhuai.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Build Machine Learning Applications</title>
+      <link>https://linshuhuai.github.io/posts/how-to-build-machine-learning-applications/</link>
+      <pubDate>Wed, 28 Feb 2024 15:31:46 -0800</pubDate>
+      <guid>https://linshuhuai.github.io/posts/how-to-build-machine-learning-applications/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Speculative Decoding</title>
+      <link>https://linshuhuai.github.io/posts/speculative-decoding/</link>
+      <pubDate>Wed, 28 Feb 2024 15:14:31 -0800</pubDate>
+      <guid>https://linshuhuai.github.io/posts/speculative-decoding/</guid>
+      <description>Inference from large autoregressive models like Transformers is slow - decoding K tokens takes K serial runs of the model. Speculative decoding is a pivotal technique to accelerate the inference of Large Language Models (LLMs) by employing a smaller draft model to predict the target model’s outputs. This article provides a brief introduction to speculative decoding and discusses early attempts in this field.
+Basics Autoregressive Decoding Transformer-based LLMs typically make generations in an autoregressive manner.</description>
+    </item>
   </channel>
 </rss>
