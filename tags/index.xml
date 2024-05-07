@@ -2,31 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Shuhuai&#39;Log</title>
-    <link>https://linshuhuai.github.io/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Shuhuai&#39;Log</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Feb 2024 15:31:46 -0800</lastBuildDate>
-    <atom:link href="https://linshuhuai.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Mar 2024 11:43:06 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>LLM</title>
-      <link>https://linshuhuai.github.io/tags/llm/</link>
-      <pubDate>Wed, 28 Feb 2024 15:31:46 -0800</pubDate>
-      <guid>https://linshuhuai.github.io/tags/llm/</guid>
+      <link>http://localhost:1313/tags/llm/</link>
+      <pubDate>Sat, 16 Mar 2024 11:43:06 -0700</pubDate>
+      <guid>http://localhost:1313/tags/llm/</guid>
       <description></description>
     </item>
     <item>
-      <title>NLP</title>
-      <link>https://linshuhuai.github.io/tags/nlp/</link>
-      <pubDate>Wed, 28 Feb 2024 15:31:46 -0800</pubDate>
-      <guid>https://linshuhuai.github.io/tags/nlp/</guid>
+      <title>ML App</title>
+      <link>http://localhost:1313/tags/ml-app/</link>
+      <pubDate>Sat, 16 Mar 2024 11:43:06 -0700</pubDate>
+      <guid>http://localhost:1313/tags/ml-app/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>RAG</title>
+      <link>http://localhost:1313/tags/rag/</link>
+      <pubDate>Sat, 16 Mar 2024 11:43:06 -0700</pubDate>
+      <guid>http://localhost:1313/tags/rag/</guid>
       <description></description>
     </item>
     <item>
       <title>ML Systems</title>
-      <link>https://linshuhuai.github.io/tags/ml-systems/</link>
+      <link>http://localhost:1313/tags/ml-systems/</link>
       <pubDate>Wed, 28 Feb 2024 15:14:31 -0800</pubDate>
-      <guid>https://linshuhuai.github.io/tags/ml-systems/</guid>
+      <guid>http://localhost:1313/tags/ml-systems/</guid>
       <description></description>
     </item>
   </channel>

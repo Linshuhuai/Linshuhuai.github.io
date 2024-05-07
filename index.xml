@@ -2,24 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Shuhuai&#39;Log</title>
-    <link>https://linshuhuai.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Shuhuai&#39;Log</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Feb 2024 15:31:46 -0800</lastBuildDate>
-    <atom:link href="https://linshuhuai.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Apr 2024 11:43:06 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>How to Build Machine Learning Applications</title>
-      <link>https://linshuhuai.github.io/posts/how-to-build-machine-learning-applications/</link>
-      <pubDate>Wed, 28 Feb 2024 15:31:46 -0800</pubDate>
-      <guid>https://linshuhuai.github.io/posts/how-to-build-machine-learning-applications/</guid>
-      <description></description>
+      <title>RAG for LLMs</title>
+      <link>http://localhost:1313/posts/rag/</link>
+      <pubDate>Tue, 16 Apr 2024 11:43:06 -0700</pubDate>
+      <guid>http://localhost:1313/posts/rag/</guid>
+      <description>Retrieval Augmented Generation, also known as RAG, has become one of the hottest applications of Large Language Models (LLMs) currently. It involves retrieving relevant information from a domain-specific database, then merging it into a prompt template to produce responses from a LLM.
+This article introduces the basic idea and each phase of the RAG process, then discusses different RAG paradigms including Naive RAG, Advanced RAG, and Modular RAG. Finally, it provides insight into how to evaluate RAG models.</description>
     </item>
     <item>
       <title>Speculative Decoding</title>
-      <link>https://linshuhuai.github.io/posts/speculative-decoding/</link>
+      <link>http://localhost:1313/posts/speculative-decoding/</link>
       <pubDate>Wed, 28 Feb 2024 15:14:31 -0800</pubDate>
-      <guid>https://linshuhuai.github.io/posts/speculative-decoding/</guid>
+      <guid>http://localhost:1313/posts/speculative-decoding/</guid>
       <description>Inference from large autoregressive models like Transformers is slow - decoding K tokens takes K serial runs of the model. Speculative decoding is a pivotal technique to accelerate the inference of Large Language Models (LLMs) by employing a smaller draft model to predict the target model’s outputs. This article provides a brief introduction to speculative decoding and discusses early attempts in this field.
 Basics Autoregressive Decoding Transformer-based LLMs typically make generations in an autoregressive manner.</description>
     </item>
