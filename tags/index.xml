@@ -6,6 +6,35 @@
     <description>Recent content in Tags on Shuhuai&#39;Log</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 16 Apr 2024 11:43:06 -0700</lastBuildDate>
     <atom:link href="https://linshuhuai.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LLM</title>
+      <link>https://linshuhuai.github.io/tags/llm/</link>
+      <pubDate>Tue, 16 Apr 2024 11:43:06 -0700</pubDate>
+      <guid>https://linshuhuai.github.io/tags/llm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ML App</title>
+      <link>https://linshuhuai.github.io/tags/ml-app/</link>
+      <pubDate>Tue, 16 Apr 2024 11:43:06 -0700</pubDate>
+      <guid>https://linshuhuai.github.io/tags/ml-app/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>RAG</title>
+      <link>https://linshuhuai.github.io/tags/rag/</link>
+      <pubDate>Tue, 16 Apr 2024 11:43:06 -0700</pubDate>
+      <guid>https://linshuhuai.github.io/tags/rag/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ML Systems</title>
+      <link>https://linshuhuai.github.io/tags/ml-systems/</link>
+      <pubDate>Wed, 28 Feb 2024 15:14:31 -0800</pubDate>
+      <guid>https://linshuhuai.github.io/tags/ml-systems/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

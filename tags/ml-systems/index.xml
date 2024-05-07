@@ -1,21 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Shuhuai&#39;Log</title>
-    <link>https://linshuhuai.github.io/</link>
-    <description>Recent content on Shuhuai&#39;Log</description>
+    <title>ML Systems on Shuhuai&#39;Log</title>
+    <link>https://linshuhuai.github.io/tags/ml-systems/</link>
+    <description>Recent content in ML Systems on Shuhuai&#39;Log</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Apr 2024 11:43:06 -0700</lastBuildDate>
-    <atom:link href="https://linshuhuai.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>RAG for LLMs</title>
-      <link>https://linshuhuai.github.io/posts/rag/</link>
-      <pubDate>Tue, 16 Apr 2024 11:43:06 -0700</pubDate>
-      <guid>https://linshuhuai.github.io/posts/rag/</guid>
-      <description>Retrieval Augmented Generation, also known as RAG, has become one of the hottest applications of Large Language Models (LLMs) currently. It involves retrieving relevant information from a domain-specific database, then merging it into a prompt template to produce responses from a LLM.
-This article introduces the basic idea and each phase of the RAG process, then discusses different RAG paradigms including Naive RAG, Advanced RAG, and Modular RAG. Finally, it provides insight into how to evaluate RAG models.</description>
-    </item>
+    <lastBuildDate>Wed, 28 Feb 2024 15:14:31 -0800</lastBuildDate>
+    <atom:link href="https://linshuhuai.github.io/tags/ml-systems/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Speculative Decoding</title>
       <link>https://linshuhuai.github.io/posts/speculative-decoding/</link>
